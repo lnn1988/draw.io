@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-30T03:54:44.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="BPUWjC0GxJZulRCbcWlR" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-30T03:59:17.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="TvyQfJIBXEXPpYi6wDB6" version="13.5.5" type="github">
   <diagram id="xXOAfpRkO7oq2K6r2bVf" name="Page-1">
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="nlnA7nwr5EOGX_mSEBAv-10" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1100" y="380" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="nlnA7nwr5EOGX_mSEBAv-11" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="nlnA7nwr5EOGX_mSEBAv-10" vertex="1">
+        <mxCell id="nlnA7nwr5EOGX_mSEBAv-11" value="任务时间（起始 -终止）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="nlnA7nwr5EOGX_mSEBAv-10" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlnA7nwr5EOGX_mSEBAv-12" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="nlnA7nwr5EOGX_mSEBAv-10" vertex="1">
@@ -58,8 +58,8 @@
         <mxCell id="nlnA7nwr5EOGX_mSEBAv-8" value="+member_id&#xa;+action_type&#xa;+action_id&#xa;+content_type&#xa;+content_id" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="nlnA7nwr5EOGX_mSEBAv-7" vertex="1">
           <mxGeometry y="30" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Iiy-4Ej51L4zw9ELq6eo-15" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;" vertex="1" parent="1">
-          <mxGeometry x="700" y="535" width="310" height="100" as="geometry" />
+        <mxCell id="Iiy-4Ej51L4zw9ELq6eo-15" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="805" y="430" width="100" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
